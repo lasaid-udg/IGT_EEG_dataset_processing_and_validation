@@ -22,9 +22,6 @@ The main entry point for the preprocessing workflow is the `preprocessing.m` fun
 
 ---
 
-## Detailed Function Descriptions
-
-### 1. `preprocessing.m`
 
 The core script that orchestrates the entire preprocessing workflow.
 
